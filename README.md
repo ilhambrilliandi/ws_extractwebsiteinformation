@@ -1,4 +1,4 @@
-# Web Scraping: Import Information
+# Web Scraping: Extract Information
 ### Overview:
 Created a web scraper using Selenium to extract and save product information from a specific [e-commerce site](https://www.anwb.nl/auto/private-lease/anwb-private-lease/aanbod) into a CSV file.
 
